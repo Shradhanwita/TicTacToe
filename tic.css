@@ -1,0 +1,116 @@
+h1 {
+    color: black;
+    font-size: 70px;
+    font-family: cursive;
+    text-shadow: 3px 2px 3px black;
+}
+body
+    {
+        background-image: url("New folder/file.gif");
+        height: 100px;
+    }
+
+body {
+    background-size: 100%;
+    
+}
+#b1, #b2, #b3, #b4, #b5, 
+#b6, #b7, #b8, #b9 {
+    width: 120px;
+    height: 60px;
+    margin-left: 60px;
+    border: 5px solid gold;
+    border-radius: 6px;
+    font-size: 30px;
+    text-align: center;
+}
+
+#but {
+    box-sizing: border-box;
+   
+    height: 60px;
+    border: 1px solid black;
+    margin: auto;
+    border-radius: 10px;
+    font-family:cursive;
+
+    background-color: white;
+    color: black;
+    font-size: 40px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#but:hover{
+    background-color: gold;
+    border-color: black;
+}
+
+#print {
+    font-family: cursive;
+
+    color: black;
+    font-size: 50px;
+}
+#main {
+    text-align: center;
+}
+#ins {
+    font-family: cursive;
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+}
+
+#userinput1 {
+    font-family: cursive;
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+}
+
+#userinput2 {
+    font-family: cursive;
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+}
+
+#P1 {
+    font-size: 60px;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+#P2 {
+    font-size: 60px;
+    font-family: cursive;
+    font-weight: bold;
+}
+#S1 {
+    font-size: 50px;
+    font-family: cursive;
+    font-weight: bold;
+    color: red;
+}
+#S2 {
+    font-size: 80px;
+    font-family: cursive;
+    font-weight: bold;
+    color:black;
+}
+#sub {
+    font-family: cursive;
+    font-weight: bold;
+}
+#sub:hover {
+    background-color: gold;
+    border-color: black;
+}
+
+#b1:hover, #b2:hover, #b3:hover, #b4:hover, #b5:hover, #b6:hover, #b7:hover, #b8:hover, #b9:hover{
+    color:#000000;
+    background-color:greenyellow;
+    box-shadow: 0 0 5px lightyellow;
+    border-color: gold;
+}
